@@ -78,7 +78,7 @@ export default {
 
 .links a {
   margin-right: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .links a:last-child {
