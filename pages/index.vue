@@ -57,6 +57,12 @@ export default {
   padding-bottom: 16px;
 }
 
+@media (max-width: 992px) {
+  .title {
+    font-size: 3rem;
+  }
+}
+
 .subtitle {
   font-family: sans-serif;
   color: rgba(53, 73, 94, 0.9);
@@ -72,6 +78,7 @@ export default {
 
 .links a {
   margin-right: 8px;
+  margin-bottom: 16px;
 }
 
 .links a:last-child {
