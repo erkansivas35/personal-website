@@ -41,12 +41,12 @@ export default {
   align-items: center;
   text-align: center;
 }
-
 .content {
   width: 100%;
-  padding: 48px 0;
+  padding: 48px 24px;
   background-color: rgba(235, 235, 235, 0.4);
 }
+
 .title {
   font-family: sans-serif;
   font-weight: 900;
