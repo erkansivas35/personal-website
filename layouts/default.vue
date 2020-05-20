@@ -6,7 +6,7 @@
 
 <style>
 html {
-  font-family: sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 300;
   font-size: 16px;
   word-spacing: 1px;

@@ -48,7 +48,7 @@ export default {
 }
 
 .title {
-  font-family: sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   font-weight: 900;
   color: #35495e;
   letter-spacing: 1px;
@@ -64,7 +64,7 @@ export default {
 }
 
 .subtitle {
-  font-family: sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: rgba(53, 73, 94, 0.9);
   font-weight: 300;
   font-size: 1.5rem;
