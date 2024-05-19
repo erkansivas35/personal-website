@@ -16,7 +16,7 @@
            class="button--blue">
           LinkedIn
         </a>
-        <a href="https://twitter.com/erkansivas35"
+        <a href="https://x.com/erkansivas35"
            target="_blank"
            class="button--light-blue">
           Twitter
