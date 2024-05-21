@@ -1,8 +1,6 @@
 <template>
   <div>
     <nuxt />
-
-    <div class="cf-turnstile" data-sitekey="0x4AAAAAAAasfIOromUWax2U" data-callback="javascriptCallback"></div>
   </div>
 </template>
 
